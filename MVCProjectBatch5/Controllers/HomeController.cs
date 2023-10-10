@@ -53,6 +53,7 @@ namespace MVCProjectBatch5.Controllers
             objemp.Address = obj.Address;
             objemp.Sal = obj.Sal;
             objemp.Zipcode = obj.Zipcode;
+            objemp.Zipcode = obj.Zipcode;
 
             if (obj.Id == 0)
             {
